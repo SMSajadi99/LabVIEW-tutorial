@@ -17,12 +17,28 @@ Despite these initial challenges, the process of developing this calculator appl
 
 Moving forward, I plan to enhance the calculator's functionality by adding support for more advanced operations, implementing a user-friendly interface, and exploring additional features that could improve the overall user experience. The handling of division by zero issue has been successfully addressed, and I look forward to tackling input validation in the next iteration of the project.
 
-Result:
+# Result:
+
+## Version 1.0
 
 ![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/b7217200-07e3-437b-9b41-e759c9751b6d)
 
 ![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/db33f248-3f53-4db5-8328-910b5c80edf1)
 
+## Version 1.1
+
+![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/7c2d78dc-0230-4f26-b741-17dbe52cd3c0)
+
+![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/94c670f8-2210-4cd8-8044-03358cca647a)
+
+
+## Version 1.2
+
+![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/43bd0969-3a78-41e1-9cea-8ea8eeb14c53)
+
+![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/dbddd8b9-6d77-463b-9d85-4a1de53acc08)
+
+![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/a0964c6c-266b-46fc-a805-59ec11c5f61f)
 
 Be happy :)
  
