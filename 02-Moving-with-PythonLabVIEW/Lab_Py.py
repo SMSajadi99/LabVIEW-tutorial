@@ -19,7 +19,7 @@ square_x, square_y = width // 2 - square_size // 2, height // 2 - square_size //
 square_speed = 5
 
 # Serial connection
-ser = serial.Serial('COM9', 9600)  # Change 'COM3' to your port name
+ser = serial.Serial('COM30', 9600)  # Change 'COM9' to your port name
 
 # Main loop
 running = True
@@ -31,15 +31,15 @@ while running:
     # Read serial input
     if ser.in_waiting > 0:
         serial_input = ser.readline().decode().strip()
-        if len(serial_input) == 4:
-            up, left, down, right = map(int, serial_input)
-            if up:
+        if len(serial_input) == 1:
+            direction = serial_input.lower()
+            if direction == 'w':
                 square_y -= square_speed
-            if down:
+            elif direction == 's':
                 square_y += square_speed
-            if left:
+            elif direction == 'a':
                 square_x -= square_speed
-            if right:
+            elif direction == 'd':
                 square_x += square_speed
 
     # Keep square within screen boundaries
