@@ -19,7 +19,7 @@ square_x, square_y = width // 2 - square_size // 2, height // 2 - square_size //
 square_speed = 5
 
 # Serial connection
-ser = serial.Serial('COM30', 9600)  # Change 'COM9' to your port name
+ser = serial.Serial('COM30', 9600)  # Change 'COM30' to your port name
 
 # Main loop
 running = True
