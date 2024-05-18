@@ -1,7 +1,7 @@
 # Connecting Python and LabVIEW with virtual series
 
 
-![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/f45619f1-0ad5-4186-9d14-9d868e8c9a5c)
+![image](https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/893dcd4c-b066-4cbc-9bf1-a05d2844156b)
 
 https://github.com/SMSajadi99/LabVIEW-tutorial/assets/69210109/aaed126d-d547-4ea3-8f72-50057669e879
 
