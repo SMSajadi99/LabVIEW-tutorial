@@ -1,4 +1,4 @@
-# Connecting Python and LabVIEW with virtual series
+# Drawing a circle through LabVIEW in Python
 
 This project is for communication between `LabVIEW` and `Python`; By receiving the **center of the circle**, the **radius**, and the **number through** `LabVIEW` and the calculations it does in the program **itself**, the points that Python only draws are obtained.
 
